@@ -1,0 +1,1 @@
+Aplicacion de comics que pida información de los heroes y que puedas guardar algunos como favoritos 
